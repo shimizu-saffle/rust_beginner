@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./packages/myls/Cargo.toml"
+    ]
+}
